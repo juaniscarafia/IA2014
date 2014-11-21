@@ -1,0 +1,2 @@
+Como aclaracion para busqueda local, si bien hill_climbing y hill_climbing_random_restarts parecen iguales, uno lo resuelve en 2 iteraciones y el otro en 400.
+Como inicio para hill_climbing usamos la ciudad de san francisco

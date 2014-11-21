@@ -1,0 +1,5 @@
+breadth_first:166,20,20,28
+depth_first:94,13,13,28
+limited_depth_first:79252,10,10,28
+greedy:11,10,10,10
+astar:16,10,10,18

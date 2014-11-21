@@ -1,0 +1,7 @@
+backtrack,None,None,{'torre2': (8, 7), 'rey': (3, 2), 'alfil2': (3, 5), 'alfil1': (3, 4), 'torre1': (7, 6), 'caballo2': (6, 3), 'reina': (1, 1), 'caballo1': (5, 8)}
+backtrack,MOST_CONSTRAINED_VARIABLE,None,{'torre2': (8, 7), 'rey': (3, 2), 'alfil2': (3, 5), 'alfil1': (3, 4), 'torre1': (7, 6), 'caballo2': (6, 3), 'reina': (1, 1), 'caballo1': (5, 8)}
+backtrack,HIGHEST_DEGREE_VARIABLE,None,{'torre2': (8, 7), 'rey': (3, 2), 'alfil2': (3, 5), 'alfil1': (3, 4), 'torre1': (7, 6), 'caballo2': (6, 3), 'reina': (1, 1), 'caballo1': (5, 8)}
+backtrack,None,LEAST_CONSTRAINING_VALUE,{'torre2': (8, 7), 'rey': (3, 2), 'alfil2': (3, 5), 'alfil1': (3, 4), 'torre1': (7, 6), 'caballo2': (6, 3), 'reina': (1, 1), 'caballo1': (5, 8)}
+backtrack,MOST_CONSTRAINED_VARIABLE,LEAST_CONSTRAINING_VALUE,{'torre2': (8, 7), 'rey': (3, 2), 'alfil2': (3, 5), 'alfil1': (3, 4), 'torre1': (7, 6), 'caballo2': (6, 3), 'reina': (1, 1), 'caballo1': (5, 8)}
+backtrack,HIGHEST_DEGREE_VARIABLE,LEAST_CONSTRAINING_VALUE,{'torre2': (8, 7), 'rey': (3, 2), 'alfil2': (3, 5), 'alfil1': (3, 4), 'torre1': (7, 6), 'caballo2': (6, 3), 'reina': (1, 1), 'caballo1': (5, 8)}
+min_conflicts,None,None,{'torre2': (5, 8), 'rey': (2, 1), 'alfil2': (8, 3), 'alfil1': (8, 1), 'torre1': (6, 7), 'caballo2': (1, 2), 'reina': (4, 4), 'caballo1': (7, 6)}
